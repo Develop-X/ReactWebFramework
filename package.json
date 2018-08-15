@@ -9,8 +9,8 @@
   },
   "private": true,
   "dependencies": {
-    "react-scripts": "1.1.4",
-    "@crownbet/crownbet-scripts": "0.25.2"
+    "npm": "^6.3.0",
+    "react-scripts": "1.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
